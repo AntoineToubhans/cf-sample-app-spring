@@ -3,4 +3,4 @@ applications:
 - name: cf-spring
   memory: 512M
   instances: 1
-  random-route: true
+  random-route: false
